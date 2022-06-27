@@ -1,0 +1,2 @@
+# 3-M1-M2-M-C-C-Qeueing-System-Simulator
+M1+M2/M/C/C has two Arrival input which in this report the M1 is Handover Calls or First Class customers which can be served from all of C servers and M2 is New calls or Second Class customers which can be served from {C servers – Threshold Servers}. Threshold Servers are the number of servers which reserved for First Class or Handover Calls that has priority rather than Second Class or New Calls in this system.
